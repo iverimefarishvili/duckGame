@@ -17,7 +17,7 @@ public class Main {
         a.quack();
         a.fly();
 
-        Duck b = new OtherDucks();
+        Duck b = new RubberDuck();
         b.display();
         b.swim();
         b.quack();
